@@ -1,5 +1,7 @@
 ## bitcoineum_pool_web
 
+pools.bigshark.club
+
 
 #### 感谢源码贡献： @大乌贼 ("\(●-●)/")
 
